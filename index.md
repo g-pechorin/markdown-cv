@@ -35,6 +35,7 @@ __Glasgow University__, BSc Computing Science
 `2012-2013`
 __Sheffield Hallam University__, MSc Game Software ENgineering
 
+
 ## Occupation
 
 `Jan 2015 - now`
