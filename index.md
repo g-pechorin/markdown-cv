@@ -24,24 +24,17 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 ### Research interests
 
 The role of tools and languages in Software Engineering.
-Generally  
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
+Bespoke languages for ????
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2002-2007`
+__Glasgow University__, BSc Computing Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2012-2013`
+__Sheffield Hallam University__, MSc Game Software ENgineering
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 ## Occupation
 
@@ -49,10 +42,23 @@ __Trinity College, Cambridge__
 __University of Nottingham__, Research Programmer
 
 - iBit; Clinical trial of a 3D Stereoscopic Theraputic Game 
-- Minted coins
+- ARIA / eMax
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
+`Jan 2013 - 2014`
+__On the Metal__, Tools Engineer
+
+????
+- iBit; Clinical trial of a 3D Stereoscopic Theraputic Game 
+- ARIA / eMax
+
+
+
+
+
+
+`Jan 2013 - 2014`
+__Games Masters__, Tools Engineer
 
 
 
